@@ -1036,3 +1036,7 @@ h4 {
     text-align: center;
   }
 }
+
+h2.desc-title {
+  font-size: 1.17em;
+}
